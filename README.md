@@ -11,15 +11,6 @@
 - 🛠️ Exploring real-world applications of **AI**, from research to production-level code
 - 🌱 Currently learning: Advanced ML Techniques, Model Deployment, Domain Adaptation
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohanarun&show_icons=true&theme=default" alt="Sohan's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sohanarun&theme=default&hide_border=false" />
-</p>
-
-
-
 <!--
 **Sodz99/Sodz99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
