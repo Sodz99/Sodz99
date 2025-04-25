@@ -7,7 +7,7 @@
 
 
 
-## 💼 About Me
+### 💼 About Me
 
 - 🎓 Master's Student in Computer Science @ Blekinge Institute of Technology, Sweden
 - 💡 Passionate about **Machine Learning**, **Deep Learning**, and building **intelligent systems**
