@@ -7,6 +7,23 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### 💼 About Me
 
 - 🎓 Master's Student in Computer Science @ Blekinge Institute of Technology, Sweden
