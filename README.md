@@ -3,6 +3,15 @@
 <h3 align="center">🚀 Aspiring Machine Learning Engineer | 🎓 Master's Student in Computer Science | 🤖 AI Enthusiast</h3>
 
 
+
+### 🧠 About Me
+
+- 🎓 Currently pursuing **Master’s in Computer Science**
+- 💡 Passionate about **Machine Learning**, **Deep Learning**, and building **intelligent systems**
+- 🛠️ Exploring real-world applications of **AI**, from research to production-level code
+- 🌱 Currently learning: Advanced ML Techniques, Model Deployment, Domain Adaptation
+
+
 <!--
 **Sodz99/Sodz99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
