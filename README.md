@@ -5,27 +5,16 @@
 <h3 align="center"> Aspiring Machine Learning Engineer  </h3>
 
 
-### 🧠 About Me
 
-- 🎓 Currently pursuing **Master’s in Computer Science**
+
+## 💼 About Me
+
+- 🎓 Master's Student in Computer Science @ Blekinge Institute of Technology, Sweden
 - 💡 Passionate about **Machine Learning**, **Deep Learning**, and building **intelligent systems**
 - 🛠️ Exploring real-world applications of **AI**, from research to production-level code
 - 🌱 Currently learning: Advanced ML Techniques, Model Deployment, Domain Adaptation
 
-<!--
-**Sodz99/Sodz99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### 🧰 My Tech Stack
 
