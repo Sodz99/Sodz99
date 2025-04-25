@@ -2,6 +2,8 @@
 <h1 align="center">🙌🏽 Hello there! I'm Sohan Arun </h1>
 
 
+<h3 align="center"> Aspiring Machine Learning Engineer  </h3>
+
 
 ### 🧠 About Me
 
