@@ -7,7 +7,7 @@
 
 
 
-### 💼 About Me
+### About Me
 
 - 🎓 Master's Student in Computer Science at Blekinge Institute of Technology, Sweden
 - 🧠 Researcher focused on **Deep Reinforcement Learning** 
