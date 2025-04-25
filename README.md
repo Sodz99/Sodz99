@@ -1,5 +1,5 @@
 
-<h1 align="center">🙌🏽 Hello there, I'm Sohan Arun 👋</h1>
+<h1 align="center">🙌🏽 Hello there, I'm Sohan Arun </h1>
 <h3 align="center">🚀 Aspiring Machine Learning Engineer | 🎓 Master's Student in Computer Science | 🤖 AI Enthusiast</h3>
 
 
