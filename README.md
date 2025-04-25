@@ -7,29 +7,11 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### 💼 About Me
 
-- 🎓 Master's Student in Computer Science @ Blekinge Institute of Technology, Sweden
-- 💡 Passionate about **Machine Learning**, **Deep Learning**, and building **intelligent systems**
-- 🛠️ Exploring real-world applications of **AI**, from research to production-level code
-- 🌱 Currently learning: Advanced ML Techniques, Model Deployment, Domain Adaptation
+- 🎓 Master's Student in Computer Science at Blekinge Institute of Technology, Sweden
+- 🧠 Researcher focused on **Deep Reinforcement Learning** 
+- 🧪 Currently working on: Generalizing RUL Prediction of TURBOFAN Jet Engines via Domain Adaptation Techniques
 
 
 
