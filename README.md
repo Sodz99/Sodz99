@@ -10,7 +10,7 @@
 ### About Me
 
 - 🎓 Master's Student in Computer Science at Blekinge Institute of Technology, Sweden
-- 🧠 Researcher focused on **Deep Reinforcement Learning** 
+- 🧠 Research focused on **Deep Reinforcement Learning** 
 - 🧪 Currently working on: Generalizing RUL Prediction of TURBOFAN Jet Engines via Domain Adaptation Techniques
 
 
